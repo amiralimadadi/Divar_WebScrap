@@ -1,5 +1,7 @@
 # Divar_WebScrap
-Web scrap on divar website.
+
+این پروژه برای اسکرپ سایت [دیوار تهران](https://divar.ir/s/tehran)  ساخته شده است.
+
 
 In this notebook, I try to scrap data from [Tehran Divar](https://divar.ir/s/tehran) website. 
 
