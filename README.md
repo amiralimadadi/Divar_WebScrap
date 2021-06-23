@@ -4,8 +4,6 @@ In this project, I try to scrap data from [Tehran Divar](https://divar.ir/s/tehr
 This website is mainly designed for selling second hand stuffs, however after a while, there are some other services available in the website like housing.
 I focused on the [Tehran Divar](https://divar.ir/s/tehran), which is dedicated for *Tehran city*. I scrap housing advertisings in *Tehran city*.
 
-This is for test.
-
 ## Prerequisites
 I use some famous python libraries like *requests*, *BeautifulSoup*, *pandas* and *numpy*. In order to do some specific activies, some other libraries seem to be necessary:
 1.   selenium (for scrolling down the main page)
