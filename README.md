@@ -12,7 +12,7 @@ I use some famous python libraries like *requests*, *BeautifulSoup*, *pandas* an
 
 **Tip** The instructio of *!pip install ...* is written in the notebook to ensure that all libraries are installed in the destination machine.
 
-[Chrome driver](https://chromedriver.chromium.org/) is also needed to open and scroll the web page.
+[ChromeDriver](https://chromedriver.chromium.org/) is also needed to open and scroll the web page. You need to download the suitable version based on your Operating System. ChromeDriver is an open source tool for automated testing of webapps. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more. ChromeDriver is a standalone server that implements the W3C WebDriver standard.
 
 ## Files
 1.   **Scrap.ipynb**: Contains the entire python code of project.
